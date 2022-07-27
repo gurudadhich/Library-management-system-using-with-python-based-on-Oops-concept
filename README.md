@@ -1,1 +1,1 @@
-# Library-management-system-using-with-python-based-on-Oops-concept
+I made a project name is Library Management System. In this project i used basic oops concept. Created two class a Library and second is Student. in library class i created some functions for display all books, issue book to student and return book in library. and in student class i created two function for request book and return book from library.
